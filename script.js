@@ -14,3 +14,4 @@ ctx.strokeStyle = `red`;
 ctx.lineWidth = 2;
 ctx.lineCap = `round`;
 ctx.stroke();
+
