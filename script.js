@@ -11,7 +11,6 @@ ctx.moveTo(100, 75);
 ctx.lineTo(100, 200);
 ctx.moveTo(200, 75);
 ctx.lineTo(200, 200);
-
 ctx.strokeStyle = `red`;
 ctx.lineWidth = 2;
 ctx.lineCap = `round`;
