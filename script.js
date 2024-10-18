@@ -10,7 +10,7 @@ ctx.lineTo(100, 200);
 ctx.moveTo(200, 75);
 ctx.lineTo(200, 200);
 
-ctx.strokeStyle = `red`;
+ctx.strokeStyle = `lightred`;
 ctx.lineWidth = 2;
 ctx.lineCap = `round`;
 ctx.stroke();
