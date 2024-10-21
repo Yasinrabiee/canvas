@@ -9,8 +9,9 @@ ctx.moveTo(100, 75);
 ctx.lineTo(100, 200);
 ctx.moveTo(200, 75);
 ctx.lineTo(200, 200);
+ctx.lineTo(200, 260);
 
-ctx.strokeStyle = `lightred`;
+ctx.strokeStyle = `skyblue`;
 ctx.lineWidth = 2;
 ctx.lineCap = `round`;
 ctx.stroke();
