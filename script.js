@@ -15,4 +15,3 @@ ctx.strokeStyle = `skyblue`;
 ctx.lineWidth = 2;
 ctx.lineCap = `round`;
 ctx.stroke();
-
